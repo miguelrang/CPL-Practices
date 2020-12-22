@@ -22,7 +22,7 @@ carpeta" -new_dir "El directorio a donde la quieres mover"
 ::::: PS C:\Users\tu_usuario\Documentos\Practica4> .\Application.ps1 -opt1 1 -opt2 4 -name "Aqui escribes el nombre de tu
 carpeta a eliminar"
 =======================================================================================================================
-[*] Si vas a trabajar con Carpetas:
+[*] Si vas a trabajar con Archivos:
 :::: PS C:\Users\tu_usuario\Documentos\Practica4> .\Application.ps1 -opt1 2
 
 :[+] Si vas a CREAR una:
