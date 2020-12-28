@@ -1,7 +1,7 @@
 ***********************************************************************************************************************
-										  ENVIA CORREOS MEDIANTE BASH
+                                         ENVIA CORREOS MEDIANTE BASH
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-					    A continuacion se muestra de que manera se puede ejecutar el còdigo
+                       A continuacion se muestra de que manera se puede ejecutar el código
 =======================================================================================================================
 [*] Primero: El codigo debe de ser ejecutado como super usuario, como se muestra en el siguiente ejemplo:
 ::: mikeagr@mikeagr:~/Documents/Practica9$ sudo ./Application.sh
